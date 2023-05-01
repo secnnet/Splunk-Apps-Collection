@@ -1,1 +1,1 @@
-# Splunk-Apps
+# Splunk Apps
