@@ -24,3 +24,5 @@ These Splunk Apps are licensed under the **MIT License**. By using these apps, y
 
 **Disclaimer**
 This repository is not affiliated with or endorsed by Splunk Inc. Use these apps at your own risk. The author is not responsible for any loss or damages resulting from the use of these apps.
+
+ 😊 
